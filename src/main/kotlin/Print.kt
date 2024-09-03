@@ -1,3 +1,0 @@
-fun Print(){
-    println("hello")
-}
